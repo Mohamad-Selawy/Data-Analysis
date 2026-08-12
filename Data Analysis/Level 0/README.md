@@ -20,11 +20,6 @@ Develop core programming and mathematical skills necessary for data analysis. Th
 - Range, variance, and standard deviation
 - Use of `numpy` and `statistics` modules
 
-### 3. Probability & Distributions
-- Probability fundamentals
-- Uniform, binomial, and normal distributions
-- Use of visualizations to interpret distributions
-
 ---
 
 ## Tools
