@@ -1,0 +1,21 @@
+EmployeeID,Name,Department,Age,Gender,Salary,Experience,City,PerformanceScore
+101,Alice Smith,IT,26,Female,60278,22,New York,71
+102,Bob Johnson,HR,32,Male,87849,6,London,94
+103,Charlie Brown,Finance,57,Male,83428,5,Paris,78
+104,Diana Prince,Marketing,47,Female,65282,26,Tokyo,86
+105,Eve Adams,IT,42,Female,62734,17,Berlin,78
+106,Frank White,Sales,29,Male,115720,2,New York,78
+107,Grace Taylor,HR,56,Female,52436,28,London,85
+108,Harry Wilson,IT,57,Male,91359,1,Paris,93
+109,Ivy Davis,Marketing,36,Female,106375,28,Tokyo,92
+110,Jack Miller,Finance,28,Male,54566,8,Berlin,90
+111,Karen Moore,IT,59,Female,101577,15,New York,75
+112,Liam Hall,Sales,57,Male,63339,19,London,75
+113,Mia Clark,HR,44,Female,57225,29,Paris,71
+114,Noah Lewis,Finance,27,Male,88227,20,Tokyo,88
+115,Olivia King,Marketing,52,Female,76572,11,Berlin,75
+116,Paul Green,Sales,49,Male,53088,5,New York,76
+117,Quinn Baker,IT,25,Female,65307,21,London,75
+118,Rachel Scott,HR,52,Female,111177,22,Paris,94
+119,Steve Turner,Marketing,27,Male,104756,19,Tokyo,91
+120,Tina Wright,Sales,40,Female,103158,27,Berlin,74
