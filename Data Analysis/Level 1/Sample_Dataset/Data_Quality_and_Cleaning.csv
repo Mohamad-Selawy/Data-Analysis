@@ -1,0 +1,23 @@
+EmployeeID,Name,Department,Age,Gender,Salary,Experience,City,PerformanceScore
+101.0,Alice Smith,IT,26.0,Female,60278.0,22.0,New York,71.0
+,  Bob Johnson  ,HR,32.0,Male,87849.0,,London,94.0
+103.0,Charlie Brown,Finance,57.0,Male,83428.0,5.0,Paris,940.0
+104.0,Diana Prince,MARKETING,47.0,Female,65282.0,26.0,Tokyo,86.0
+105.0,Eve Adams,IT,42.0,Female,62734.0,290.0,Berlin,
+106.0,Frank White,Sales,29.0,Male,115720.0,2.0,New York,78.0
+107.0,Grace Taylor,HR,56.0,Female,52436.0,28.0,London,85.0
+108.0,HARRY WILSON,IT,57.0,Male,91359.0,1.0,Paris,93.0
+109.0,Ivy Davis,Marketing,,,106375.0,28.0,Tokyo,92.0
+110.0,Jack Miller,Finance,590.0,Male,1157200.0,8.0,  Berlin  ,90.0
+111.0,  Karen Moore  ,IT,59.0,  Female  ,101577.0,15.0,New York,75.0
+1200.0,Liam Hall,Sales,57.0,Male,63339.0,19.0,London,75.0
+113.0,Mia Clark,HR,44.0,Female,57225.0,29.0,Paris,71.0
+114.0,Noah Lewis,,27.0,Male,88227.0,20.0,,88.0
+115.0,Olivia King,Marketing,52.0,  Female  ,76572.0,11.0,Berlin,75.0
+116.0,,  Sales  ,49.0,Male,53088.0,5.0,  NEW YORK  ,76.0
+117.0,Quinn Baker,IT,25.0,Female,65307.0,21.0,London,75.0
+118.0,Rachel Scott,HR,52.0,Female,,22.0,Paris,94.0
+119.0,Steve Turner,Marketing,27.0,MALE,104756.0,19.0,Tokyo,91.0
+120.0,Tina Wright,Sales,40.0,Female,103158.0,27.0,Berlin,74.0
+113.0,Mia Clark,HR,44.0,Female,57225.0,29.0,Paris,71.0
+109.0,Ivy Davis,Marketing,,,106375.0,28.0,Tokyo,92.0
