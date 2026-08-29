@@ -15,7 +15,7 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Merging, joining, and concatenating datasets
 - Grouping and aggregating data
 - Applying functions with `.apply()`, `.map()`, and `.lambda`
-- Transforming data with `.pivot()`, `.melt()`
+- Transforming data with `.pivot()`
 
 ### 2. [Data Types & Conversions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/data_types_and_conversions.ipynb)
 - Understanding `object`, `int`, `float`, `category`, `datetime`
@@ -25,14 +25,13 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Understanding the structure of a DataFrame
 - Selecting single and multiple columns
 - Selecting rows using `.loc` and `.iloc`
-- Accessing individual values with `.at` and `.iat`
 - Selecting subsets of rows and columns
 - Boolean indexing for filtering data
 - Filtering with comparison operators
 - Combining multiple conditions using `&`, `|`, and `~`
 - Filtering using `.isin()` and `.between()`
 - Filtering text with string methods (`.str.startswith()`, `.str.endswith()`, `.str.contains()`)
-- Understanding the differences between `.loc`, `.iloc`, `.at`, and `.iat`
+- Understanding the differences between `.loc`, `.iloc`
 - Common indexing mistakes and best practices
 
 ### 3. [Sorting & Feature Creation](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/filtering_sorting_and_feature_creation_in_pandas.ipynb)
