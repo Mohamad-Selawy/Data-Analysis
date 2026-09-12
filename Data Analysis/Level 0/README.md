@@ -15,11 +15,6 @@ Develop core programming and mathematical skills necessary for data analysis. Th
 - Functions and modular code
 - Input/output and string formatting
 
-### 2. Basic Statistics
-- Mean, median, mode
-- Range, variance, and standard deviation
-- Use of `numpy` and `statistics` modules
-
 ---
 
 ## Tools
