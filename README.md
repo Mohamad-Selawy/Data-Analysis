@@ -9,9 +9,3 @@ Welcome to my Data Analysis repository! This repository contains various project
 * **`SQL For Data Analysis/`**: Database queries, joins, aggregations, and business logic implementation.
 * **`PowerBI/`**: Power BI dashboards, report files (.pbix), and data visualization projects.
 
-## 🛠️ Tools & Technologies
-
-* **Languages:** Python, SQL
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Visualization:** Power BI
-* **Environment:** Jupyter Notebooks
